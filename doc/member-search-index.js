@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"EjemploCajaBlanca","c":"EjemploCajaBlanca","l":"CompruebaNumeroPerfecto(int)"},{"p":"EjemploCajaBlanca","c":"EjemploCajaBlanca","l":"EjemploCajaBlanca()","u":"%3Cinit%3E()"}];updateSearchResults();
